@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@300;400;700&family=Kaushan+Script&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Kalam', cursive, Tahoma;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url("images/geometric-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-color: rgba(255,255,255,0.4);
+}
+
+.card {
+    border: none;
+    border-radius: 50px;
+}
+
+#header {
+    border-radius: 20px;
+}
+
+.card-header {
+    background-color: #AA78A6;
+    color: white;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 75px;
+}
+
+.card-body {
+    background-color: white;
+    border: 3px solid #AA78A6;
+    border-radius: 20px;
+}
+
+.card-title {
+    padding: 30px 15px;
+}
+
+#text {
+    text-align: center;
+    font-style: italic;    
+    font-size: 1em;
+    color: black;
+    padding-top: 18px;
+}
+
+#new-meditation {
+    background-color: #D7FDF0;
+    color: #B8BAC8;
+    border-radius: 20px;
+    display: block;
+    width: 100%;    
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#new-meditation:hover {
+    background-color: #B2FFD6;
+    box-shadow: 2px 2px 5px #B4D6D3;
+    color: #AA78A6;
+    text-shadow: 1px 1px 1px #B4D6D3;
+}
