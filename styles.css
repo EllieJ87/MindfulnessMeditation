@@ -1,31 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Kalam:wght@300;400;700&family=Kaushan+Script&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-*, *::before, *::after {
+* {
     box-sizing: border-box;
     font-family: 'Kalam', cursive, Tahoma;
+    padding: 0;
+    margin: 0;
 }
 
 body {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    width: 100vw;
+    position: relative; 
     height: 100vh;
-    justify-content: center;
+    width: 100%;
+    display: flex;
     align-items: center;
-    background-image: url("images/geometric-bg.jpg");
+    justify-content: center;
+    background-image: url('images/geometric-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-body::before {
-    content: "";
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    background-color: rgba(255,255,255,0.4);
 }
 
 .card {
@@ -84,4 +75,59 @@ body::before {
     box-shadow: 2px 2px 5px #B4D6D3;
     color: #AA78A6;
     text-shadow: 1px 1px 1px #B4D6D3;
+}
+
+footer {
+    align-content: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.footer-text {
+    display: flex;    
+    align-self: center;
+    justify-content: flex-start; 
+    font-weight: 600;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    color: #B2FFD6;
+    text-shadow: 1px 1px 3px #AA78A6;
+}
+
+.footer-links {
+    display: flex;
+    align-self: center;
+    justify-content: flex-end;
+}
+
+.fa {
+    font-size: 1.8em;
+    color: #AA78A6;
+    text-decoration: none;
+    padding: 0 30px 0 0;
+}
+
+.fa:hover {
+    color: #B2FFD6;
+    text-shadow: 1px 1px 3px #B4D6D3;
+}
+
+@media (max-width: 768px) {
+    footer {
+        bottom: 0;
+        left: 0;
+    }
+}
+
+@media (max-width: 572px) {
+    .footer-text  {
+        justify-content: center;
+        padding: 5px;
+    }
+
+    .footer-links {
+        justify-content: center;
+        padding: 5px;
+    }
 }
