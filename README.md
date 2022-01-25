@@ -2,7 +2,7 @@
 
 This is taken inspiration from my Random Quote Machine project that I did for the freeCodeCamp Front End Development Libraries Project.  
 
-I had a selection of Mindful Meditation cards and I wanted to make this into a web page, this was to amke it easily accessible for on the go or when I need to take a moment and practice Mindful Meditation.
+I had a selection of Mindful Meditation cards and I wanted to make this into a web page, this was to make it easily accessible for on the go or when I need to take a moment and practice Mindful Meditation.
 
 This has 100 meditation to break you away from everyday stress and bring you back to a sense of calmness and to reflect on every day life and living!
 
