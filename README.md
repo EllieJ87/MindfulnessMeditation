@@ -8,7 +8,7 @@ This has 100 meditation to break you away from everyday stress and bring you bac
 
 ## Showcase
 
-![Random Quote Machine](images/responsive-design.jpg) 
+![Mindful Meditation](images/responsive-design.jpg) 
 
 A deployed version of my website can be found [here](https://elliej87.github.io/MindfulnessMeditation/)
 
