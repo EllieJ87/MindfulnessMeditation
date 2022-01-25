@@ -109,8 +109,8 @@ This section is a brief highlight of features that this site contains.
 ### <a name="maincontainer">Main Container</a>
 
 - This is vertially and horizontally central on the main view width
-- This contains the meditation body that generates a new quote when the button is clicked
-- Button to generate new quote at random
+- This contains the meditation body that generates a new Mindful Meditation practice when the button is clicked
+- Button to generate new Mindful Meditation practice at random
 
 ### <a name="footerfeatures">Footer</a>
 
