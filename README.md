@@ -96,7 +96,7 @@ The wireframes were created using [Adobe XD](https://www.adobe.com/uk/products/x
 
 Desktop & Laptop | Tablet & Mobile
 ------------------------ | ---------------------
-[Home](https://github.com/EllieJ87/RandomQuoteMachine/blob/master/images/home-desktop.png) | [Home](https://github.com/EllieJ87/RandomQuoteMachine/blob/master/images/home-mobile.png)
+[Home](https://github.com/EllieJ87/MindfulnessMeditation/blob/master/images/home-desktop.png) | [Home](https://github.com/EllieJ87/MindfulnessMeditation/blob/master/images/home-mobile.png)
 
 There are some differences between my wireframes and my final website. 
 
@@ -266,7 +266,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ### <a name="repositorylink">Repository Link</a>
 
-[Random Quote Machine](https://elliej87.github.io/MindfulnessMeditation/)
+[Mindful Meditation](https://elliej87.github.io/MindfulnessMeditation/)
 
 ### <a name="runningcodelocally">Running Code Locally</a>
 
