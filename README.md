@@ -207,7 +207,7 @@ Expected: the text to change and bring a new mindful meditation practice when th
 Testing: click on the button to generate a new mindful meditation
 Results: mindful meditation changes to another random mindful meditation 
 
-Expected: button to generate a new mindful meditation and change the colour scheme when this is clicked
+Expected: button to generate a new mindful meditation when this is clicked
 Testing: click on the button
 Results: button changes the mindful meditation that is randomly generated
 
