@@ -128,11 +128,11 @@ This section is a brief highlight of features that this site contains.
 
 [Bootstrap](https://getbootstrap.com)
 
--	The project uses the Bootstrap framework to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my game, before adding my own custom styling 
+-	The project uses the Bootstrap framework to be a mobile responsive, useing prebuilt components, plugins built on jQuery, and Bootstrap styles to my site, before adding my own custom styling 
 
 [CSS](https://en.wikipedia.org/wiki/CSS)
 
--	The project uses CSS to apply the custom styles to create the look of my game.  The index.html file is linked directly to the main.css stylesheet
+-	The project uses CSS to apply the custom styles to create the look of my site.  The index.html file is linked directly to the styles.css stylesheet
 
 [Font Awesome](https://fontawesome.com/v4.7/) 
 
@@ -144,19 +144,19 @@ Google Chrome Dev Tools
 
 [Google Fonts](https://fonts.google.com)
 
--	Google fonts was used to import ‘Orbiton font and ‘Sarpanch’ into the HTML which is used on all pages throughout the project.
+-	Google fonts was used to import the chosen font into the HTML which is used throughout this project.
 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
--	The project uses HTML to create the basic elements and content of my game 
+-	The project uses HTML to create the basic elements and content of my site
 
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
--	The project uses JavaScript from my custom script.js file to add functionality and interactivity to my text adventure game.  This is the core focus of this project.  The project also uses JavaScript from Bootstrap which is required to add functionality to the Bootstrap modal 
+-	The project uses JavaScript from my custom script.js file to add functionality and interactivity to my site.  This is the core focus of this project.  The project also uses JavaScript from Bootstrap which is required to add functionality to the Bootstrap framework
 
 [jQuery](https://en.wikipedia.org/wiki/JQuery)
 
--	The project uses jQuery to simplify DOM manipulation. This is both the standard jQuery that is built with Bootstrap components, and my custom jQuery used in my index.html and script.js files
+-	The project uses jQuery to simplify DOM manipulation. This is both the standard jQuery that is built with Bootstrap components
 
 [Visual Studio Code](https://code.visualstudio.com)
 
